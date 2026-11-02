@@ -19,8 +19,8 @@ You need Node.js 16+, PostgreSQL and MetaMask.
 
 1. Clone the repository and install the dependencies:
    ```bash
-   git clone https://github.com/Gmehta604/Blockchain-Inventory-Management.git
-   cd Blockchain-Inventory-Management
+   git clone https://github.com/gauravnmehta3223/blockchain-supply-chain.git
+   cd blockchain-supply-chain
    npm install
    (cd trustdrive && npm install)
    (cd trustdrive_server && npm install)
